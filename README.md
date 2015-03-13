@@ -32,3 +32,4 @@ Lastly the final data set was written to a txt file for uploading.
 
 
 
+# tidydata
